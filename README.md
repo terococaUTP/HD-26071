@@ -1,2 +1,58 @@
 # HD-26071
 Herramientas de Desarrollo- Sección 26071
+# HD-26071
+Herramientas de Desarrollo- Sección 26071
+
+# Seguimiento de Repositorios - Herramientas de Desarrollo- Sección 26071
+
+## Instrucciones
+Cada estudiante debe agregar su nombre y el enlace de sus repositorios.
+*********************************************************************
+
+## Lista de estudiantes
+
+| N° | Nombre del estudiante               | Repositorio|
+|----|----------------------|--------------|
+| 1 | ALBERCA FERNANDEZ, JUVICZA KATHERINE |
+| 2 | ANTON ZAPATA, ROBERTO ALEXANDER |
+| 3 | ARROYO NUÑEZ, DARIO MILTON |
+| 4 | ASTUDILLO TIMOTEO, MAXIMO MILTON |
+| 5 | BENITES CHOQUEHUANCA, FRANCO ALEXIS |
+| 6 | CARHUAPOMA PAICO, KEYVEL JOEL |
+| 7 | CASTILLO VIERA, ALAN JOSE |
+| 8 | CHAVEZ GUERRA, JUAN ALONSO |
+| 9 | CRUZ CABRERA, RENZO GERARDO |
+| 10 | GARCIA ESPINOZA, DIEGO ALEXANDER |
+| 11 | GARCIA MENA, ANGEL GABRIEL |
+| 12 | GUTIERREZ VILLEGAS, BENJAMIN  ALEXANDER |
+| 13 | INGA ALBINES, BRANDON HILDEMARO |
+| 14 | LALUPU NEYRA, JAVIER ALEXIS |
+| 15 | LEYVA SANCHEZ, VALERY NAOMY |
+| 16 | LLACSAHUANGA AGUILAR, LUIS ALESSANDRO |
+| 17 | LOPEZ CASTILLO, JEIX ENMANUEL |
+| 18 | LOPEZ CRUZ, MILENE ANDREA |
+| 19 | MEZA RUIZ, BRAYAN JHOSSET |
+| 20 | MORE ANTON, EDSON DUBERLY |
+| 21 | PASACHE LACHIRA, ROMULO |
+| 22 | PEÑA CAMPOS, JHON JESUS |
+| 23 | RAMIREZ NEYRA, BRENDA NICOLE |
+| 24 | RAMOS AGUILAR, PEDRO LUIS VALERIO |
+| 25 | RAMOS MORAN, ANDRE RANDY |
+| 26 | RAMOS SILVA, ISRAEL |
+| 27 | RODRIGUEZ PORTOCARRERO, BRIGGITTE ALEJANDRA |
+| 28 | SAAVEDRA PRIETO, JUAN ESAU |
+| 29 | SEMINARIO PORRAS, VICTOR RAUL |
+| 30 | SIMBALA AGURTO, JOAQUIN ALDAIR |
+| 31 | SUAREZ INFANTE, JORGE MANUEL GREGORIO |
+| 32 | VALENCIA JABO, GERARDO FABIAN |
+| 33 | VEGA BAZAN LLONTOP, DANIEL ALBERTO |
+| 34 | ZAPATA RENTERIA, DIEGO ARMANDO |
+| 35 | ZETA SIANCAS, LUZ YASMIN |
+| 36 | ZURITA RODRIGUEZ, RAUL EDUARDO |
+
+## Criterios de seguimiento
+
+- Repositorio creado
+- Commits realizados
+- Organización adecuada
+- Evidencia de trabajo
