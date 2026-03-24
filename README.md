@@ -1,7 +1,5 @@
 # HD-26071
 Herramientas de Desarrollo- Sección 26071
-# HD-26071
-Herramientas de Desarrollo- Sección 26071
 
 # Seguimiento de Repositorios - Herramientas de Desarrollo- Sección 26071
 
